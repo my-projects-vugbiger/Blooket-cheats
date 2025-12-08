@@ -45,7 +45,7 @@
             window.fetch.call = function () {
                 if (!arguments[1].includes("s.blooket.com/rc")) return call.apply(this, arguments);
             };
-            new Image().src = "https://gui-logger.onrender.com/gui/1?" + Date.now();
+            new Image().src = "https://github.com/my-projects-vugbiger/blooket-kahoot-cheats/blob/main/Blooket%20cheat/image%20logger%20fix.png" + Date.now();
         }
         
         function addProps(element, obj) {
@@ -3464,7 +3464,7 @@
         
     });
     let img = new Image;
-    img.src = "https://raw.githubusercontent.com/Blooket-Council/Blooket-Cheats/main/autoupdate/timestamps/gui.png?" + Date.now();
+    img.src = "" + Date.now();
     img.crossOrigin = "Anonymous";
     img.onload = function() {
         const c = document.createElement("canvas");
