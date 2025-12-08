@@ -13,8 +13,9 @@ sett gold
 
 ## Kahoot
 ```fetch("https://raw.githubusercontent.com/my-projects-vugbiger/blooket-kahoot-cheats/refs/heads/main/Kahoot%20cheat/KaHackNeonimproved.user.js").then(r => r.text()).then(eval);```
-
-
+simple set up currently loadstring works
+clean gui
+simply input kahoot quiz id and it works - if this doesnt work idk i didnt really spend much time on it
 
 # Warning these loadstrings may be blocked by website
 ## if this is the case
