@@ -149,7 +149,7 @@
                     createElement("div", {
                         id: "backgroundImage",
                         style: {
-                            backgroundImage: "url(https://ac.blooket.com/dashboard/65a43218fd1cabe52bdf1cda34613e9e.png)",
+                            backgroundImage: "url(https://github.com/my-projects-vugbiger/blooket-kahoot-cheats/blob/main/Blooket%20cheat/Background.png)",
                             display: "block",
                             height: "200%",
                             position: "absolute",
