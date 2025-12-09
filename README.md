@@ -6,9 +6,9 @@ supported websites =
 #### https://www.blooket.com
 #### https://kahoot.com
 
-
-
-
+#### blooket = https://github.com/my-projects-vugbiger/blooket-kahoot-cheats/blob/main/Blooket%20cheat/cheats/gui.js
+#####
+#### for kahoot see below 
 # how to use console
 step 1.
 open aplication
