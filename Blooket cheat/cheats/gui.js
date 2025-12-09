@@ -1,4 +1,4 @@
-# view licence in file
+   /* view licence in licence file */
 (() => {
     let iframe = document.querySelector("iframe");
     if (!iframe) {
