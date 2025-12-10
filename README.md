@@ -5,7 +5,7 @@ https://www.blooket.com
 
 ## steps for installing
 please download
-https://github.com/my-projects-vugbiger/blooket-kahoot-cheats/blob/main/Blooket%20cheat%20%20extension.crx
+https://github.com/my-projects-vugbiger/Blooket-cheats/blob/main/Blooket%20cheat%20%20extension.crx
 
 once you have downloaded it open ur downloads folder
 it should look like
